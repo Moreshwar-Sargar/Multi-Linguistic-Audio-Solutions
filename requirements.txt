@@ -6,3 +6,10 @@ SpeechRecognition
 pymongo
 bcrypt
 pandas
+uuid
+tempfile
+os
+time
+base64
+logging
+datetime
