@@ -1,0 +1,8 @@
+streamlit
+deep-translator
+PyPDF2
+gTTS
+SpeechRecognition
+pymongo
+bcrypt
+pandas
